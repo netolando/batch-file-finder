@@ -1,8 +1,8 @@
-#file-finder
+# file-finder
 
 This is one of my first projects. This code basically works like a batch grep. You can find out whether a specific key is contained within specific files or not.
 
-#Instructions
+# Instructions
 
 Place a txt file containing the list of keys that you want to find inside the folder 'input'. Place the files that you want to analyze inside the folder 'searchable_files'.
 
